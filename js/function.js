@@ -44,7 +44,7 @@ function form(){
 
     alert("Thank you for contacting us " + name);
 
-    window.location.href = "index.html";
+    window.location.href = "../index.html";
 }
 
 api();
